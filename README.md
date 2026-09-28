@@ -3,6 +3,8 @@
 Replaces Chrome's ⌘F with Safari's find experience: the page dims, every match is
 spotlighted in a white pill, and the current match is yellow with a little bounce.
 
+![Searching a Wikipedia article: the page dims and every match is spotlighted](docs/demo.gif)
+
 ## Install
 
 1. Open `chrome://extensions`
